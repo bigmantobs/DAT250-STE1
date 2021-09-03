@@ -9,4 +9,4 @@ Following this first “issue”, a second flag was raised when I tried to insta
 Thus, PaperTrail was up and running and after some short database work, so was my Heroku page, which can be found at by clicking [Heroku Page](https://ancient-lowlands-88802.herokuapp.com/)
 
 ## Unsolved Issues
-One issue I never managed to solve was my Heroku pg:psql command not working, I installed, restarted, and still I am met with an error. I will try a re-install.
+One issue I never managed to solve was the Heroku pg:psql command missing, I installed, restarted, and still I am met with an error. I will try a re-install.
