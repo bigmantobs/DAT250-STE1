@@ -31,13 +31,14 @@ Finally, we were instructed to attempt a bulkWrite.
 
 [Screenshot evidence of bulkWrite](https://i.imgur.com/6wNAAjv.png)
 
-Further screenshot evidence can be found [here](https://imgur.com/a/Cbk5VHm) *Includes the resulting screenshots from the delete operation*
+Further screenshot evidence can be found [here](https://imgur.com/a/Cbk5VHm) (*Includes the resulting screenshots from the delete operation*)
 
 ## Experiment 2: Aggregation
 
 [MapReduce Example](https://i.imgur.com/Tx9Xkfl.png)
 
 [Reduce and finalize functions for self-implemented mapReduce operation](https://i.imgur.com/7fSRe7V.png)
+
 [Result of custom mapReduce](https://i.imgur.com/tfChWug.png)
 
 My mapReduce function will allow users to access a customer's average money spent per order, which can be helpful to find which customers should be afforded certain promotional offers and deals, based on how much money they are spending each time they order. (Customers who spend less should be given larger percentage discounts, as the amount discounted will be less than if they give these promotional offers to the big spenders.)
