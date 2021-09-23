@@ -31,7 +31,7 @@ Finally, we were instructed to attempt a bulkWrite.
 
 [Screenshot evidence of bulkWrite](https://i.imgur.com/6wNAAjv.png)
 
-Further screenshot evidence can be found [here](https://imgur.com/a/Cbk5VHm) (*Includes the resulting screenshots from the delete operation*)
+Further screenshot evidence can be found [here](https://imgur.com/a/Cbk5VHm) (*Please note: the order in which these were uploaded is somewhat messy*)
 
 ## Experiment 2: Aggregation
 
