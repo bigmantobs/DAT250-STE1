@@ -13,3 +13,15 @@ Had an issue with the port as I was running an apache HTTP server there, and I c
 [Link to the code for experiment two](https://github.com/bigmantobs/-Software-Experiment-5-p2)
 
 & My groovy.app is located [here](https://github.com/bigmantobs/-Software-Experiment-5-p2/tree/main/complete/src/main/java/com/example/springboot)
+
+## Experiment 3: Rest Service
+[Link to the code for experiment three](https://github.com/bigmantobs/gs-rest-service)
+
+## Experiment 4: Data Access
+[Link to my code for experiment four](https://github.com/bigmantobs/gs-accessing-data-jpa)
+
+## Pending Issues
+None
+
+## Screenshots
+![output](https://i.imgur.com/2K23XSv.png)
